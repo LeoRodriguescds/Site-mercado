@@ -12,7 +12,7 @@ header {
     display: flex;
     justify-content: space-between;
     width: 100vw;
-    height: 9vh;
+    height: 11vh;
     padding: 1rem;
     background-color: #000;
 }
@@ -121,11 +121,8 @@ input::placeholder {
 }
 
 #preencha {
-    margin-left: 33vw;
+    margin-left: 27vw;
 }
-
-
-
 
 footer {
     margin-top: 25vh;
